@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&family=Roboto:wght@400;500&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #03045e;
+    color: #fff;
+    width:100%;
+    padding:10px;
+    text-align: center;
+    
+}
+.voltar{
+    position: absolute;
+    margin-left: 170px;
+
+}
+body{
+    background-color: #fff;
+}
+.faculdades{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 185px;
+    background-color: #Fff;
+    opacity: 0.7;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.centro h1{
+    text-align: center;
+    padding:50px;
+    border-bottom: 2px solid #03045e;
+}
+.centro img{
+    position: absolute;
+    left: 25%;
+}
+p{
+    position:absolute;
+    top:680px;
+    margin-left:180px;
+    margin-right: 180px;
+    text-align: justify;
+    background-color: #d8d8d8;
+    border-radius: 5px;
+    padding: 40px;
+}
+.areas-t{
+    background-color: #03045e;
+    width:1349px;
+    position:absolute;
+    top:900px;
+    text-align: center;
+    padding:50px;
+    color:#fff;
+}
+.areas{
+    background-color: #03045e;
+    width:1349px;
+    height:150px;
+    position:absolute;
+    top:1000px;
+    color:#fff;
+}
+.areas li{
+    margin-left:500px;
+    font-size: 18px;
+}
+.matriz{
+    background-color: #d8d8d8;
+    width:1349px;
+    height:600px;
+    position: absolute;
+    top:1150px;
+}
+.matriz h2{
+    position: absolute;
+    text-align: center;
+    padding:50px;
+    margin-left:150px;
+    color:#03045e;
+}
+.matriz ul{
+    margin-top: 120px;
+    margin-left: 200px;
+}
